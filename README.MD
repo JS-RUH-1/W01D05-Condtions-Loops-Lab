@@ -23,7 +23,6 @@
 ### Leap year
 A leap year (also known as an intercalary year or bissextile year) is a calendar year that contains an additional day (or, in the case of a lunisolar calendar, a month) added to keep the calendar year synchronized with the astronomical year or seasonal year.
 - Declare a variable and assign year to it 
-- Write if else statement to check if that number you entered is even or odd and print the result in the console
 - **Hint:** to know if the year is leap or not:
     - The year must be divisible by 4 AND not divisible by 100 OR the year divisible by 400 
 - print appropriate message that show the year and if it's leap year or not
